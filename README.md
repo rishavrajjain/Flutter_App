@@ -29,7 +29,6 @@ FundIt is an app for small businesses to get crowdfunding by retail investors fo
 <ul>
 <li>Flutter: Dynamic Mobile Applications that runs both on Android and iOS.</li>
 <li>Firebase: For authentication</li>
-<li>Square: Payment Processing</li>
 <li>SQL: For storing the Business and Investor Information</li>
 </ul>
 
