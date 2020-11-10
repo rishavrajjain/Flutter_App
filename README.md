@@ -5,7 +5,7 @@ Startups founders don't have those connections or profits to get funding and esp
 Meanwhile, most people are not as rich but want to invest. So we want to build a platform that benefits color businesses (because majority of them are quite small) and Investors both. Startups put their video pitches to help make investor a decision on the startup and investor can make an appointment with the business to know about their future goals before investing. 
 
 ## What it does
-fundIt is a an app for small businesses to get crowdfunding by retail investors for equity.
+FundIt is an app for small businesses to get crowdfunding by retail investors for equity.
 <ul>
 <li>Users can login and authenticate their credentials via Apple/Google/Email</li>
 <li>Startups can post data such as PDFs, Images, and Text to supplement their crowdfunding campaign and help investors to make investment decisions</li>
