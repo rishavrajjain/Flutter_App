@@ -42,7 +42,7 @@ FundIt is an app for small businesses to get crowdfunding by retail investors fo
 
 ## Challenges I ran into
 <ul>
-<li>Payment Processing using Square</li>
+<li>Payment Processing</li>
 <li>Making dynamic user interface for startup took some time to apprehend</li>
 </ul>
 
