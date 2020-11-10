@@ -1,4 +1,11 @@
 # FundIt
+<p float="left">
+<img width="344" alt="k1" src="https://user-images.githubusercontent.com/29782913/98737530-53bb0c80-23cc-11eb-9368-df43709f2b63.png">
+<img width="341" alt="k2" src="https://user-images.githubusercontent.com/29782913/98737542-59185700-23cc-11eb-98d0-ea68ad72a309.png">
+<img width="351" alt="k4" src="https://user-images.githubusercontent.com/29782913/98737553-5cabde00-23cc-11eb-8db5-656b0bc11a3c.png">
+<img width="355" alt="k5" src="https://user-images.githubusercontent.com/29782913/98737556-5d447480-23cc-11eb-88ec-b7793c8f78b3.png">
+<img width="333" alt="k3" src="https://user-images.githubusercontent.com/29782913/98737549-5b7ab100-23cc-11eb-82da-53d53f067475.png">
+</p>
 
 ## Inspiration
 Startups founders don't have those connections or profits to get funding and especially in a year full of uncertainties many big investors are scared to invest in small businesses. And not all startups makes million dollars in their beginning years.<br>
